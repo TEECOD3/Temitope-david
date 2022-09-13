@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning javascript<br>I write css<br>I'm currently looking for collaborations<br>Funfact: action speaks louder 
+☻️I'm currently learning javascript<br>💤I write css<br>I'm currently looking for collaborations<br>Funfact: action speaks louder 
 
 
 ## 🌐 Socials:
